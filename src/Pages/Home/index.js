@@ -1,5 +1,6 @@
 import React from 'react'
 import Hero from '../../Components/Hero'
+import Projects from '../../Components/Projects'
 
 function Home() {
 
@@ -7,6 +8,7 @@ function Home() {
 
         <div className="container rounded">
             <Hero />
+            <Projects />
         </div>
     )
 }

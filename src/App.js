@@ -4,13 +4,25 @@ import NavBar from './Components/NavBar'
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Home from './Pages/Home'
 import Footer from './Components/Footer'
+import React, { useState } from 'react'
+import Projects from './projects.json'
+import ProjectsContext from './utils/ProjectsContext'
+
 
 function App() {
+  
+  const [projectsState, setProjectsState] = useState(Projects);
+
+
+
+
   return (
     <Router>
       <div className="App">
     <NavBar />
+    <ProjectsContext.Provider value={projectsState}>
     <Route exact path="/" component={Home} />
+    </ProjectsContext.Provider>
     <Footer />
     </div>
     </Router>

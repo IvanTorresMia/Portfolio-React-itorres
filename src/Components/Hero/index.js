@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function Hero() {
 
     return (
-        <div className="jumbotron style">
+        <div className=" jumbotron style">
             <div className="row">
                 <div className="col">
             <h1 className="display-4">Developer</h1>
