@@ -5,7 +5,7 @@ function Home() {
 
     return(
 
-        <div>
+        <div className="container rounded">
             <Hero />
         </div>
     )

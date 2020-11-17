@@ -1,3 +1,18 @@
 .style {
     background-color: #828282;
+    height: 10%;
+}
+
+.imgStyle {
+    width: 100%;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+.btn {
+    margin: 2px;
+    background-color: #4F4F4F;  
+}
+
+.img-thumbnail {
+    width: 34px;
 }
