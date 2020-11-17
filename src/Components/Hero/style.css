@@ -10,9 +10,13 @@
 
 .btn {
     margin: 2px;
-    background-color: #4F4F4F;  
+    background-color: #4F4F4F; 
 }
 
 .img-thumbnail {
     width: 34px;
+}
+
+.social {
+    margin-top: 3%;
 }

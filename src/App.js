@@ -8,9 +8,11 @@ import Footer from './Components/Footer'
 function App() {
   return (
     <Router>
+      <div className="App">
     <NavBar />
     <Route exact path="/" component={Home} />
     <Footer />
+    </div>
     </Router>
   );
 }
