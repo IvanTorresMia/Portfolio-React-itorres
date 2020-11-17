@@ -13,7 +13,7 @@
 }
 .projectImg:hover {
     cursor: pointer;
-    border: #797979 4px solid;
+  box-shadow: 2px 2px 2px 2px #23292E;
 }
 
 .projectImg {
