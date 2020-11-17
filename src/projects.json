@@ -25,7 +25,7 @@
     },
     {
         "id": 5,
-        "name": "Random Password Generator",
+        "name": "Random Password",
         "link": "https://ivantorresmia.github.io/RandomPass-IvanTorres/",
         "image": "./assets/RandomPass.jpg"
     },
@@ -37,13 +37,13 @@
     },
     {
         "id": 7,
-        "name": "Employee Directory React js",
+        "name": "Employee Directory React",
         "link": "https://ivantorresmia.github.io/Employee-Directory-itorres/",
         "image": "./assets/Employee.jpg"
     },
     {
         "id": 8,
-        "name": "Clicky Shrek Game React js",
+        "name": "Clicky Shrek Game React",
         "link": "https://ivantorresmia.github.io/shrek-game-itorres/",
         "image": "./assets/shrek.jpg"
     },
@@ -51,7 +51,7 @@
         "id": 9,
         "name": "Fitness Tracker",
         "link": "https://rocky-plateau-91408.herokuapp.com/?id=5facb975f3bc4300170d88a5",
-        "image": "w./assets/workout.jpg"
+        "image": "./assets/workout.jpg"
     }
    
 ]

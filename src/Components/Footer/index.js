@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
 
     return (
-        <footer className="footer fixed-bottom top-line">
+        <footer className="footer top-line">
         <div className="my-footer navbar-dark bg-dark">
             <div className="footer-copyright text-center py-3 text-muted">
                 © 2020 Copyright:

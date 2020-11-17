@@ -1,3 +1,27 @@
 .Style {
     background-color: #2D9CBD;
+    text-align: center;
+    margin-bottom: 8%;
+}
+
+.title {
+    text-align: center;
+}
+
+.projectStyle {
+    margin-bottom: 2%;
+}
+.projectImg:hover {
+    cursor: pointer;
+    border: #797979 4px solid;
+}
+
+.projectImg {
+    height: 150px;
+   width: 250px;
+   border: #23292E 2px solid;
+}
+
+.btn {
+    margin: 2%;
 }
