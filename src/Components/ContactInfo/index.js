@@ -3,7 +3,7 @@ import Style from "./style.css";
 
 function ContactInfo() {
   return (
-    <div className="jumbotron Style">
+    <div className="container Style">
       <div className="row">
         <div className="col">
           <a href="https://github.com/IvanTorresMia" target="_blank">
@@ -35,7 +35,7 @@ function ContactInfo() {
           >
             <img
               class="img-thumbnail m-2"
-              src={process.env.PUBLIC_URL + "/cv.png"}
+              src={process.env.PUBLIC_URL + "/facebook.jpg"}
               alt="CV Icon"
             />
           </a>
@@ -48,7 +48,7 @@ function ContactInfo() {
           >
             <img
               class="img-thumbnail m-2"
-              src={process.env.PUBLIC_URL + "/cv.png"}
+              src={process.env.PUBLIC_URL + "/instagram.jpg"}
               alt="CV Icon"
             />
           </a>

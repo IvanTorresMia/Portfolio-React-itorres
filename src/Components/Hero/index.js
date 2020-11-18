@@ -16,8 +16,12 @@ function Hero() {
             is excited to work with a team. Here you will find some of my work
             as well as links to my Social Media.
           </p>
-          <button className="btn text-light">About Me</button>
+          <Link to="/AboutMe">
+            <button className="btn text-light">About Me</button>
+          </Link>
+          <Link to='/Contact'>
           <button className="btn text-light">Let's Connect</button>
+          </Link>
           <br />
           <div className="social">
             <a href="https://github.com/IvanTorresMia" target="_blank">
