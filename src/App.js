@@ -3,6 +3,7 @@ import './App.css';
 import NavBar from './Components/NavBar'
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Home from './Pages/Home'
+import AboutMe from './Pages/AboutMe'
 import Footer from './Components/Footer'
 import React, { useState } from 'react'
 import Projects from './projects.json'
@@ -22,6 +23,7 @@ function App() {
     <NavBar />
     <ProjectsContext.Provider value={projectsState}>
     <Route exact path="/" component={Home} />
+    <Route exact path="/AboutMe" component={AboutMe} />
     </ProjectsContext.Provider>
     <Footer />
     </div>

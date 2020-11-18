@@ -1,13 +1,14 @@
 import React from 'react'
-import Hero from '../../Components/Hero'
-import Projects from '../../Components/Projects'
+import Con from '../../Components/AboutMeCon'
+import Cards from '../../Components/AboutMeCards'
 
 function AboutMe() {
 
     return (
 
         <div className="container rounded">
-
+            <Con />
+            <Cards />
         </div>
     )
 }
