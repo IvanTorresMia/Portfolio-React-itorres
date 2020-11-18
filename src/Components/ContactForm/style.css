@@ -1,0 +1,14 @@
+.Style {
+    background-color: #2D9CBD;
+    text-align: center;
+}
+
+.form-control {
+    border: #23292E 2px solid;
+}
+
+.btn {
+    margin: 2px;
+    background-color: #4F4F4F; 
+}
+

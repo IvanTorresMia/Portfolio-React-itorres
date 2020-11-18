@@ -1,7 +1,7 @@
 import React from 'react'
 import Con from '../../Components/AboutMeCon'
 import Cards from '../../Components/AboutMeCards'
-
+import StoryCard from '../../Components/StoryCard'
 function AboutMe() {
 
     return (
@@ -9,6 +9,7 @@ function AboutMe() {
         <div className="container rounded">
             <Con />
             <Cards />
+            <StoryCard />
         </div>
     )
 }

@@ -14,12 +14,14 @@
 .projectImg:hover {
     cursor: pointer;
   box-shadow: 2px 2px 2px 2px #23292E;
+  filter: brightness(100%)
 }
 
 .projectImg {
     height: 150px;
    width: 250px;
    border: #23292E 2px solid;
+   filter: brightness(80%)
 }
 
 .btn {
