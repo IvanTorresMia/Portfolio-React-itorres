@@ -1,5 +1,5 @@
-.App {
+body {
   text-align: center;
   background-color: #2D9CBD;
-
+  /* background: linear-gradient(70deg, #2D9CBD 0%, #4de6bf 50%); */
 }

@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Style from './style.css'
 
 function NavBar() {
   return (
@@ -9,9 +8,20 @@ function NavBar() {
         <a className="navbar-brand my-header p-3 text relative" href="/">
           Ivan Torres
         </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
-            <li className="nav-item">
+            <li className="nav-item"> 
               <Link
                 to="/"
                 className={
@@ -44,7 +54,7 @@ function NavBar() {
                     : "nav-link"
                 }
               >
-               Contact
+                Contact
               </Link>
             </li>
           </ul>

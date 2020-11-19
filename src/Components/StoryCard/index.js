@@ -1,9 +1,12 @@
 import React from "react";
 import Style from "./style.css";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
+AOS.init();
 function StoryCard() {
   return (
-    <div className="jumbotron StoryStyle">
+    <div className="jumbotron StoryStyle" data-aos="flip-left">
       <div className="row">
         <div className="col">
           <h1 className="display-4">My Story</h1>

@@ -1,11 +1,15 @@
 import React from "react";
 import Style from "./style.css";
 import { Link } from "react-router-dom";
+import AOS from "aos";
+import "aos/dist/aos.css";
+
+AOS.init();
 
 function Hero() {
   return (
     <div className=" jumbotron style">
-      <div className="row">
+      <div className="row" data-aos="fade-left">
         <div className="col">
           <h1 className="display-4">Developer</h1>
           <p className="lead">Let's change the world through Tech</p>
