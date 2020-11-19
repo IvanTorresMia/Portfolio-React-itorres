@@ -7,7 +7,7 @@ const projects = useContext(ProjectsContext)
 
     console.log(projects)
     return (
-        <div className="Style">
+        <div className="ConStyle">
             <div className="title">
             <h1 className="display-4">Projects</h1>
             </div>

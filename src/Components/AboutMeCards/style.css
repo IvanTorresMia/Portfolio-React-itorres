@@ -1,6 +1,8 @@
-.Style {
-    background-color: #2D9CBD;
-    text-align: center;
+.SkillStyle {
+    background-color: #23292E;
+    height: 10%;
+    color: #99999B;
+    box-shadow: 5px 5px 10px #23292E;
 }
 
 .imgStyle {

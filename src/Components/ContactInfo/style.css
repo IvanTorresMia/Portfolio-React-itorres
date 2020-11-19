@@ -1,4 +1,15 @@
-.Style {
-    background-color: #2D9CBD;
+
+#card {
+    background-color: #23292E;
     height: 10%;
+    margin: 2%;
+    box-shadow: 2px 2px 2px 2px black;
+    color:  #99999B;
+    padding: 2%
+
+}
+.img-thumbnail:hover {
+    cursor: pointer;
+  box-shadow: 2px 2px 2px 2px #99999B;
+  filter: brightness(100%)
 }

@@ -4,7 +4,7 @@ import Style from './style.css'
 function AboutMeCards() {
 
     return (
-   <div className="jumbotron Style">
+   <div className="jumbotron SkillStyle">
 <div className="row">
     <div className="col imgCon">
     <img className="rounded imgStyle" alt="Ivan" src="https://www.paymentsjournal.com/wp-content/uploads/2019/11/904-scaled.jpg"/>

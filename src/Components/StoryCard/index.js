@@ -3,7 +3,7 @@ import Style from "./style.css";
 
 function StoryCard() {
   return (
-    <div className="jumbotron Style">
+    <div className="jumbotron StoryStyle">
       <div className="row">
         <div className="col">
           <h1 className="display-4">My Story</h1>
