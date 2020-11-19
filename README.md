@@ -14,7 +14,7 @@ Hi! And welcome to my portfolio page! Here you will find all the information tha
 
 ## Links
 * [Repo](https://github.com/IvanTorresMia/Portfolio-React-itorres)
-* [Deployed-Link]()
+* [Deployed-Link](https://ivan-torres-mia.herokuapp.com/)
 
 ## Technologies
 * [JavaScript](https://www.w3schools.com/js/)
@@ -29,7 +29,7 @@ Hi! And welcome to my portfolio page! Here you will find all the information tha
 
 
 ## Features
-![Gif]()
+![Gif](./reactportfolio.gif)
 
 ## Code
 
