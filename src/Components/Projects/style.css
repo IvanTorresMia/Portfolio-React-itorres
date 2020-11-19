@@ -1,9 +1,8 @@
 .ConStyle {
-    background-color: #23292E;
+    background-color: #2D9CBD;
     text-align: center;
     margin-bottom: 8%;
-    box-shadow: 5px 5px 10px #23292E;
-    color: #99999B;
+
 }
 
 .title {
@@ -11,18 +10,20 @@
 }
 
 .projectStyle {
+
     margin-bottom: 2%;
 }
 .projectImg:hover {
     cursor: pointer;
-  box-shadow: 2px 2px 2px 2px #99999B;
+  box-shadow: 5px 5px 10px black;
   filter: brightness(100%)
 }
 
 .projectImg {
     height: 150px;
    width: 250px;
-   border: #99999B 2px solid;
+   border: #23292E 2px solid;
+   box-shadow: 2px 2px 2px 2px black;
    filter: brightness(80%)
 }
 

@@ -14,7 +14,7 @@ const projects = useContext(ProjectsContext)
             <hr />
             <div className="row card-group">
             {projects.map((project, i) => (
-                <div className="col-sm-4 projectStyle">
+                <div className="col-sm-4 projectStyle rounded">
                     <h3 className="font-weight-normal">
                     {project.name}
                     </h3>
