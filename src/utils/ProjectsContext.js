@@ -1,5 +1,5 @@
 import React from "react";
 
-const CurrentWeather = React.createContext([]);
+const ProjectsContext = React.createContext([]);
 
-export default CurrentWeather;
+export default ProjectsContext;
