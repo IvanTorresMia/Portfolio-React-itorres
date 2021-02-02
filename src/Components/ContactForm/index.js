@@ -1,5 +1,5 @@
 import React from "react";
-import Style from "./style.css";
+import "./style.css";
 import emailjs from "emailjs-com";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
