@@ -47,7 +47,7 @@ function Hero() {
               />
             </a>
             <a
-              href="https://docs.google.com/document/d/16c10yqmCmxzBsDn9xWfy5PDCh38xbu7IUXVdRni7O9A/edit?usp=sharing"
+              href="https://docs.google.com/document/d/1MpKmhQKr5Xzc7NC5V6Si3RGbbVlSQLlvVrLEiBz-pKs/edit?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
