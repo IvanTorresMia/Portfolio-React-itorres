@@ -62,7 +62,7 @@ Ivan Torres
 * [linkedIn](www.linkedin.com/in/ivan-torres-0828931b2)
 
 ## Credits
-* Credits for this homework assignment go out to Jerome, Manuel, Kerwin, Roger, and all of my classmates who helped me in study sessions. As well as my tutor who helped me a ton with understanding this homework assignment. 
+* Credits For this projet goes out to my former instructers and TA's that taught me how to code as well as friends who give me feed back on how to make my projects better.
 * [StackOverFlow](https://stackoverflow.com/)
 
 
