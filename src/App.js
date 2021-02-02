@@ -36,24 +36,3 @@ function App() {
 export default App;
 
 
-{/* <Router>
-<div>
-  <NavBar />
-  <Switch>
-    <Route exact path="/" component={Books} />
-  </Switch>
-</div>
-</Router> */}
-
-{/* <Router>
-<div>
-  <Navbar />
-  <Wrapper>
-    <Route exact path="/" component={About} />
-    <Route exact path="/about" component={About} />
-    <Route exact path="/discover" component={Discover} />
-    <Route exact path="/search" component={Search} />
-  </Wrapper>
-  <Footer />
-</div>
-</Router> */}
